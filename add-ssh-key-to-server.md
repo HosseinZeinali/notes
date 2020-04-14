@@ -24,3 +24,12 @@ For debugging you can use these commands
 ```bash
 ssh -v ( or -vv) username@host's
 ```
+---
+You can add this to ssh config for the simple ssh connection:
+```
+Host $name
+Hostname $ip
+User $user
+IdentityFile ~/.ssh/id_rsa
+IdentitiesOnly yes
+```

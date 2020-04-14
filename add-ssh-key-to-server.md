@@ -1,4 +1,4 @@
-# Add ssh key tu server
+# Add ssh key to server
 1-generate RSA key in the local
 ```
 ssh-keygen -t rsa (-b 4096 -C "your_email@domain.com")

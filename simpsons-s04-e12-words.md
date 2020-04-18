@@ -7,7 +7,7 @@
 * In the light of problems we having. we have no choice but to close the business.
 # 5-boon: a thing that is helpful
 # 6-To call off: cancel
-* To call off a party/ meating.
+* To call off a party/ meeting.
 # 7-Show up:
 * I invited him for 8 o'clock. But he didn't show up until 9 o'clock.
 # 8-Chat away: chat
